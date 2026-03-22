@@ -167,7 +167,7 @@ Hello! My name is Gustavo Rech Costa. I am from Rio Grande do Sul, Brazil, and I
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rechcosta&theme=tokyonight&layout=compact&custom_title=Stacks&langs_count=9&iclude_all_commits=true" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rechcosta&theme=tokyonight&layout=compact&custom_title=Stacks&langs_count=9&include_all_commits=true" 
   />
 
 </p>
