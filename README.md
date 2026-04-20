@@ -61,15 +61,6 @@ Hello! My name is Gustavo Rech Costa. I am from Rio Grande do Sul, Brazil, and I
 
 <img 
     align="left" 
-    alt="QT"
-    title="QT" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" 
-/>
-
-<img 
-    align="left" 
     alt="JavaScript"
     title="JavaScript" 
     width="30px" 
@@ -133,20 +124,20 @@ Hello! My name is Gustavo Rech Costa. I am from Rio Grande do Sul, Brazil, and I
 
 <img 
     align="left" 
-    alt="AWS"
-    title="AWS" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"  
-/>
-
-<img 
-    align="left" 
     alt="Kubernetes"
     title="Kubernetes" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="AWS"
+    title="AWS" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"  
 />
 
 <br/>
