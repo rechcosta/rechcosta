@@ -16,7 +16,7 @@ Hello! My name is Gustavo Rech Costa. I am from Rio Grande do Sul, Brazil, and I
         <img 
             alt="Followers" 
             title="Follow me on GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/rechcosta?color=808080&labelColor=808080&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/rechcosta?color=808080&labelColor=808080&style=for-the-badge&logo=github&label=Followers&logoColor=white"
         />
     </a>
     <a href="https://github.com/rechcosta?tab=repositories&sort=stargazers">
