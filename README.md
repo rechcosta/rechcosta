@@ -12,18 +12,18 @@ Hello! My name is Gustavo Rech Costa. I am from Rio Grande do Sul, Brazil, and I
             src="https://custom-icon-badges.demolab.com/badge/Follow Me--white.svg?logo=linke&logoColor=white&style=for-the-badge&labelColor=FFF"
         />
     </a>
-    <a href="https://github.com/rechcosta?tab=followers">
+     <a href="https://github.com/rechcosta?tab=followers">
         <img 
             alt="Followers" 
             title="Follow me on GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/rechcosta?color=808080&labelColor=808080&style=for-the-badge&logo=github&label=Followers&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/rechcosta?color=808080&labelColor=808080&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
     <a href="https://github.com/rechcosta?tab=repositories&sort=stargazers">
         <img 
             alt="Total Stars" 
             title="Total GitHub Stars" 
-            src="https://custom-icon-badges.demolab.com/github/stars/rechcosta?color=%23E1AD0E&style=for-the-badge&labelColor=C79600&logo=star&label=stars"
+            src="https://custom-icon-badges.demolab.com/github/stars/rechcosta?color=%23E1AD0E&style=for-the-badge&labelColor=C79600&logo=star&label=estrelas"
         />
     </a>
 </p>
