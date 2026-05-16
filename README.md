@@ -1,8 +1,10 @@
-# 👨🏼‍💻 Gustavo Rech
+# 👨🏼‍💻 Gustavo Rech Costa
 
-**`Developer`**
+**`Mobile & Backend Developer · Rio Grande do Sul, Brazil`**
 
-Hello! My name is Gustavo Rech Costa. I am from Rio Grande do Sul, Brazil, and I am a developer interested in embedded systems, backend, and mobile development. I use this profile to share projects, explore ideas, and develop solutions that connect programming with the real world.
+I build mobile apps with Flutter and the backends that power them. Currently a research scholar at IFRS, where I'm developing **Nexus Tech** — a platform that connects external organizations with IFRS faculty for collaborative problem-solving.
+
+Open to **full-time** and **freelance** opportunities.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/gustavo-rech-costa/">
@@ -129,7 +131,7 @@ Hello! My name is Gustavo Rech Costa. I am from Rio Grande do Sul, Brazil, and I
 <br/>
 <br/>
 
-### 📊 GitHub Stats
+### 📊 GitHub
 
 <p>
     
