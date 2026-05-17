@@ -1,10 +1,10 @@
 # 👨🏼‍💻 Gustavo Rech Costa
 
-**`Mobile & Backend Developer · Rio Grande do Sul, Brazil`**
+**`Software Developer`**
 
-I build mobile apps with Flutter and the backends that power them. Currently a research scholar at IFRS, where I'm developing **Nexus Tech** — a platform that connects external organizations with IFRS faculty for collaborative problem-solving.
-
-Open to **full-time** and **freelance** opportunities.
+- Systems Analysis and Development student at the Federal Institute of Rio Grande do Sul (IFRS).
+- Interested in embedded systems, backend development, and machine learning.
+- Member of the academic software lab, where I help build Nexus Tech — a mobile platform that connects external organizations with IFRS professors to collaborate on real-world problems. 🚀
 
 <p align="left">
     <a href="https://www.linkedin.com/in/gustavo-rech-costa/">
