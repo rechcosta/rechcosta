@@ -1,10 +1,9 @@
 # 👨🏼‍💻 Gustavo Rech Costa
 
-**`Software Developer`**
+**`Software Engineer`**
 
-- Systems Analysis and Development student at the Federal Institute of Rio Grande do Sul (IFRS).
+- Computer Engineering student at the Federal University of Santa Catarina (UFSC).
 - Interested in embedded systems, backend development, and machine learning.
-- Member of the academic software lab, where I help build Nexus Tech — a mobile platform that connects external organizations with IFRS professors to collaborate on real-world problems. 🚀
 
 <p align="left">
     <a href="https://www.linkedin.com/in/gustavo-rech-costa/">
@@ -36,6 +35,15 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Angular"
+    title="Angular" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-plain.svg" 
 />
 
 <img 
@@ -145,7 +153,7 @@
 
 <img 
       align="left" 
-      alt="GitHub Stats" 
+      alt="Stacks" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=rechcosta&theme=tokyonight&layout=compact&custom_title=Stacks&langs_count=9&locale=en" 
   />
