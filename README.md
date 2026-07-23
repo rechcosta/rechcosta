@@ -1,6 +1,6 @@
 # 👨🏼‍💻 Gustavo Rech Costa
 
-**`Software Engineer`**
+**`Software Developer`**
 
 - Computer Engineering student at the Federal University of Santa Catarina (UFSC).
 - Interested in embedded systems, backend development, and machine learning.
