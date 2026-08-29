@@ -1,161 +1,40 @@
-# 👨🏼‍💻 Gustavo Rech Costa
+# Gustavo Rech Costa
 
-**`Software Developer`**
-
-- Computer Engineering student at the Federal University of Santa Catarina (UFSC).
-- Interested in embedded systems, backend development, and machine learning.
-
-<p align="left">
-    <a href="https://www.linkedin.com/in/gustavo-rech-costa/">
-        <img 
-            alt="Linkedin" 
-            title="Follow me on Linkedin" 
-            src="https://custom-icon-badges.demolab.com/badge/Follow Me--white.svg?logo=linke&logoColor=white&style=for-the-badge&labelColor=FFF"
-        />
-    </a>
-</p>
+💻 Computer Engineering student at UFSC (Federal University of Santa Catarina).<br>
+⚡ Focused on embedded systems — firmware development, real-time control, and hardware-software integration.<br>
+📱 Built Nexus Tech, a Flutter & Firebase platform connecting companies to academic projects at IFRS.<br>
+🤖 Member of LIARA, researching and building LLM-based agents.
 
 ---
 
-### 🤖 Languages & Tools
+### 🔗 Technologies
 
-<img 
-    align="left" 
-    alt="Java"
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-<img 
-    align="left" 
-    alt="Spring"
-    title="Spring" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Angular"
-    title="Angular" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="C++"
-    title="C++" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
-/>
-
-<img 
-    align="left" 
-    alt="Node"
-    title="Node" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"
-/>
-
-<img 
-    align="left" 
-    alt="Flutter"
-    title="Flutter" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Firebase"
-    title="Firebase" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"  
-/>
-
-<img 
-    align="left" 
-    alt="MongoDB"
-    title="MongoDB" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"  
-/>
-
-<img 
-    align="left" 
-    alt="PostgreSQL"
-    title="PostgreSQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Docker"
-    title="Docker" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg"  
-/>
-
-<img 
-    align="left" 
-    alt="Kubernetes"
-    title="Kubernetes" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="AWS"
-    title="AWS" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"  
-/>
-
-<br/>
-<br/>
-
-### 📊 GitHub
-
-<p>
-    
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=rechcosta&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
-  />
-
-<img 
-      align="left" 
-      alt="Stacks" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rechcosta&theme=tokyonight&layout=compact&custom_title=Stacks&langs_count=9&locale=en" 
-  />
-
+### 📫 Contact
+ 
+<p align="left">
+        <a href="https://www.linkedin.com/in/gustavo-rech-costa/">
+        <img 
+            alt="Linkedin" 
+            title="Follow me on Linkedin" 
+            src="https://custom-icon-badges.demolab.com/badge/Follow%20Me-FFF.svg?logo=linke&logoColor=0A66C2&style=for-the-badge"
+        />
+    </a>
+    <a href="mailto:rechcostagustavo@gmail.com">
+        <img 
+            alt="Email" 
+            title="Send me an email" 
+            src="https://custom-icon-badges.demolab.com/badge/Email%20Me-EA4335.svg?logo=gmail&logoColor=white&style=for-the-badge"
+        />
+    </a>
 </p>
