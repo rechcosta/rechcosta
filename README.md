@@ -11,6 +11,7 @@
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik05IDJ2MkgxMVYySDEzVjRIMTVWMkgxN1Y0SDE4QTIgMiAwIDAgMSAyMCA2VjdIMjJWOUgyMFYxMUgyMlYxM0gyMFYxNUgyMlYxN0gyMFYxOEEyIDIgMCAwIDEgMTggMjBIMTdWMjJIMTVWMjBIMTNWMjJIMTFWMjBIOVYyMkg3VjIwSDZBMiAyIDAgMCAxIDQgMThWMTdIMlYxNUg0VjEzSDJWMTFINFY5SDJWN0g0VjZBMiAyIDAgMCAxIDYgNEg3VjJIOU04IDhWMTZIMTZWOEg4WiIvPjwvc3ZnPg==&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
