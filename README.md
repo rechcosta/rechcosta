@@ -14,7 +14,7 @@
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik05IDJ2MkgxMVYySDEzVjRIMTVWMkgxN1Y0SDE4QTIgMiAwIDAgMSAyMCA2VjdIMjJWOUgyMFYxMUgyMlYxM0gyMFYxNUgyMlYxN0gyMFYxOEEyIDIgMCAwIDEgMTggMjBIMTdWMjJIMTVWMjBIMTNWMjJIMTFWMjBIOVYyMkg3VjIwSDZBMiAyIDAgMCAxIDQgMThWMTdIMlYxNUg0VjEzSDJWMTFINFY5SDJWN0g0VjZBMiAyIDAgMCAxIDYgNEg3VjJIOU04IDhWMTZIMTZWOEg4WiIvPjwvc3ZnPg==&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![VHDL](https://img.shields.io/badge/VHDL-543978?style=flat-square&logoColor=white)
+![VHDL](https://img.shields.io/badge/VHDL-543978?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiPjxyZWN0IHg9IjUiIHk9IjUiIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCIgcng9IjIiLz48cmVjdCB4PSI5IiB5PSI5IiB3aWR0aD0iNiIgaGVpZ2h0PSI2IiBmaWxsPSJ3aGl0ZSIgc3Ryb2tlPSJub25lIi8+PHBhdGggZD0iTTkgMXYzTTE1IDF2M005IDIwdjNNMTUgMjB2M00xIDloM00xIDE1aDNNMjAgOWgzTTIwIDE1aDMiLz48L3N2Zz4=&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
