@@ -3,7 +3,7 @@
 💻 Computer Engineering student at UFSC (Federal University of Santa Catarina).<br>
 ⚡ Focused on embedded systems — firmware development, real-time control, and hardware-software integration.<br>
 📱 Built Nexus Tech, a Flutter & Firebase platform connecting companies to academic projects at IFRS.<br>
-🤖 Member of LIARA, researching and building LLM-based agents.
+🔌 Member of ProtoFPGA, a hardware league where we design, build, and simulate digital hardware.
 
 ---
 
@@ -14,7 +14,7 @@
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik05IDJ2MkgxMVYySDEzVjRIMTVWMkgxN1Y0SDE4QTIgMiAwIDAgMSAyMCA2VjdIMjJWOUgyMFYxMUgyMlYxM0gyMFYxNUgyMlYxN0gyMFYxOEEyIDIgMCAwIDEgMTggMjBIMTdWMjJIMTVWMjBIMTNWMjJIMTFWMjBIOVYyMkg3VjIwSDZBMiAyIDAgMCAxIDQgMThWMTdIMlYxNUg0VjEzSDJWMTFINFY5SDJWN0g0VjZBMiAyIDAgMCAxIDYgNEg3VjJIOU04IDhWMTZIMTZWOEg4WiIvPjwvc3ZnPg==&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+![VHDL](https://img.shields.io/badge/VHDL-543978?style=flat-square&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
