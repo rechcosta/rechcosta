@@ -7,21 +7,23 @@
 </a>
 
 <p>
-  <a href="https://www.linkedin.com/in/gustavo-rech-costa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:rechcostagustavo@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/Santa_Catarina,_Brazil-2EA043?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <a href="https://www.linkedin.com/in/gustavo-rech-costa/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzBBODRGRiI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+" alt="LinkedIn" /></a>
+  <a href="mailto:rechcostagustavo@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Santa_Catarina,_Brazil-0D1117?style=for-the-badge&logo=googlemaps&logoColor=3FB950" alt="Location" />
 </p>
 
 </div>
 
 ---
 
-### 🧑‍💻 About me
+<h3 align="center">🧑‍💻 About me</h3>
 
-- 🎓 **Computer Engineering** student at **UFSC** (Federal University of Santa Catarina)
-- ⚡ Focused on **embedded systems**: firmware, real-time control and hardware-software integration
-- 🔌 Member of **ProtoFPGA**, a hardware league where we design, build and simulate digital hardware
-- 🛰️ Curious about numerical computing and aerospace simulation
+<p align="center">
+  🎓 <b>Computer Engineering</b> student at <b>UFSC</b> (Federal University of Santa Catarina)<br>
+  ⚡ Focused on <b>embedded systems</b>: firmware, real-time control and hardware-software integration<br>
+  🔌 Member of <b>ProtoFPGA</b>, a hardware league where we design, build and simulate digital hardware<br>
+  🛰️ Curious about numerical computing and aerospace simulation
+</p>
 
 ---
 
