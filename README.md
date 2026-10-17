@@ -28,30 +28,32 @@
 <h3 align="center">🛠️ Tech stack</h3>
 
 <p align="center">
-  <sub><b>⚡ LOW LEVEL & HARDWARE</b></sub><br>
-  <img src="https://img.shields.io/badge/C-161B22?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-161B22?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++" />
-  <img src="https://img.shields.io/badge/Assembly-161B22?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik05IDJ2MkgxMVYySDEzVjRIMTVWMkgxN1Y0SDE4QTIgMiAwIDAgMSAyMCA2VjdIMjJWOUgyMFYxMUgyMlYxM0gyMFYxNUgyMlYxN0gyMFYxOEEyIDIgMCAwIDEgMTggMjBIMTdWMjJIMTVWMjBIMTNWMjJIMTFWMjBIOVYyMkg3VjIwSDZBMiAyIDAgMCAxIDQgMThWMTdIMlYxNUg0VjEzSDJWMTFINFY5SDJWN0g0VjZBMiAyIDAgMCAxIDYgNEg3VjJIOU04IDhWMTZIMTZWOEg4WiIvPjwvc3ZnPg==&logoColor=C9A26B" alt="Assembly" />
-  <img src="https://img.shields.io/badge/VHDL-161B22?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiPjxyZWN0IHg9IjUiIHk9IjUiIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCIgcng9IjIiLz48cmVjdCB4PSI5IiB5PSI5IiB3aWR0aD0iNiIgaGVpZ2h0PSI2IiBmaWxsPSJ3aGl0ZSIgc3Ryb2tlPSJub25lIi8+PHBhdGggZD0iTTkgMXYzTTE1IDF2M005IDIwdjNNMTUgMjB2M00xIDloM00xIDE1aDNNMjAgOWgzTTIwIDE1aDMiLz48L3N2Zz4=&logoColor=9B6FD1" alt="VHDL" />
-  <img src="https://img.shields.io/badge/Vivado-161B22?style=for-the-badge&logo=amd&logoColor=ED1C24" alt="AMD Vivado" />
+  <sub><code>EMBEDDED &amp; HARDWARE</code></sub>
+  <br><br>
+  <img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=A8B9CC&labelColor=0D1117" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=cplusplus&logoColor=659AD2&labelColor=0D1117" alt="C++" />
+  <img src="https://img.shields.io/badge/Assembly-0D1117?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0Q0QTM3MyI+PHBhdGggZD0iTTkgMnYySDExVjJIMTNWNEgxNVYySDE3VjRIMThBMiAyIDAgMCAxIDIwIDZWN0gyMlY5SDIwVjExSDIyVjEzSDIwVjE1SDIyVjE3SDIwVjE4QTIgMiAwIDAgMSAxOCAyMEgxN1YyMkgxNVYyMEgxM1YyMkgxMVYyMEg5VjIySDdWMjBINkEyIDIgMCAwIDEgNCAxOFYxN0gyVjE1SDRWMTNIMlYxMUg0VjlIMlY3SDRWNkEyIDIgMCAwIDEgNiA0SDdWMkg5TTggOFYxNkgxNlY4SDhaIi8+PC9zdmc+&labelColor=0D1117" alt="Assembly" />
+  <img src="https://img.shields.io/badge/VHDL-0D1117?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQjM5MkYwIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCI+PHJlY3QgeD0iNSIgeT0iNSIgd2lkdGg9IjE0IiBoZWlnaHQ9IjE0IiByeD0iMiIvPjxyZWN0IHg9IjkiIHk9IjkiIHdpZHRoPSI2IiBoZWlnaHQ9IjYiIGZpbGw9IiNCMzkyRjAiIHN0cm9rZT0ibm9uZSIvPjxwYXRoIGQ9Ik05IDF2M00xNSAxdjNNOSAyMHYzTTE1IDIwdjNNMSA5aDNNMSAxNWgzTTIwIDloM00yMCAxNWgzIi8+PC9zdmc+&labelColor=0D1117" alt="VHDL" />
+  <img src="https://img.shields.io/badge/Vivado-0D1117?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRkY0RDREIiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMSAxN2g0VjdoNXYxMGg0VjdoNXYxMGg0Ii8+PC9zdmc+&labelColor=0D1117" alt="Vivado" />
 </p>
 
 <p align="center">
-  <sub><b>💻 SOFTWARE</b></sub><br>
-  <img src="https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-161B22?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-161B22?style=for-the-badge&logo=springboot&logoColor=6DB33F" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Flutter-161B22?style=for-the-badge&logo=flutter&logoColor=02569B" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Firebase-161B22?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase" />
-  <img src="https://img.shields.io/badge/PostgreSQL-161B22?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+  <sub><code>SOFTWARE</code></sub>
+  <br><br>
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=0D1117" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=F89820&labelColor=0D1117" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=6DB33F&labelColor=0D1117" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=54C5F8&labelColor=0D1117" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FFCA28&labelColor=0D1117" alt="Firebase" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=699ECA&labelColor=0D1117" alt="PostgreSQL" />
 </p>
 
 <p align="center">
-  <sub><b>🧰 TOOLS</b></sub><br>
-  <img src="https://img.shields.io/badge/Linux-161B22?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
-  <img src="https://img.shields.io/badge/Docker-161B22?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-  <img src="https://img.shields.io/badge/AWS-161B22?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
+  <sub><code>TOOLS</code></sub>
+  <br><br>
+  <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=0D1117" alt="Linux" />
+  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=0D1117" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0D1117" alt="Git" />
 </p>
 
 ---
