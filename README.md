@@ -25,41 +25,6 @@
 
 ---
 
-### 🚀 Featured projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🔍 <a href="https://github.com/rechcosta/reviewer2">Reviewer2</a></h4>
-      <p>AI technical reviewer that audits video explanations against your own reference material. Every critique is anchored to a verifiable citation, and it runs 100% locally.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
-      <img src="https://img.shields.io/badge/RAG-8A2BE2?style=flat-square" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>📱 <a href="https://github.com/rechcosta/nexus-tech">Nexus Tech</a></h4>
-      <p>Platform connecting community organisations to IFRS faculty: real needs become academic projects. Real-time chat, attachments, admin moderation and server-side Firestore rules.</p>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🔳 <a href="https://github.com/rechcosta/qrcode-generator-api">QR Code Generator API</a></h4>
-      <p>Spring Boot REST API that turns text into QR Codes, stores them on AWS S3 and returns a public URL. Runs in Docker with one command.</p>
-      <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-      <img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>🧪 More on the way</h4>
-      <p>Embedded and FPGA projects from ProtoFPGA and UFSC coursework coming soon.</p>
-    </td>
-  </tr>
-</table>
-
----
-
 ### 🛠️ Tech stack
 
 **Low level & hardware**<br>
