@@ -25,45 +25,34 @@
 
 ---
 
-### 🛠️ Tech stack
+<h3 align="center">🛠️ Tech stack</h3>
 
-<table>
-  <tr>
-    <td><b>⚡ Embedded & Hardware</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-      <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik05IDJ2MkgxMVYySDEzVjRIMTVWMkgxN1Y0SDE4QTIgMiAwIDAgMSAyMCA2VjdIMjJWOUgyMFYxMUgyMlYxM0gyMFYxNUgyMlYxN0gyMFYxOEEyIDIgMCAwIDEgMTggMjBIMTdWMjJIMTVWMjBIMTNWMjJIMTFWMjBIOVYyMkg3VjIwSDZBMiAyIDAgMCAxIDQgMThWMTdIMlYxNUg0VjEzSDJWMTFINFY5SDJWN0g0VjZBMiAyIDAgMCAxIDYgNEg3VjJIOU04IDhWMTZIMTZWOEg4WiIvPjwvc3ZnPg==&logoColor=white" alt="Assembly" />
-      <img src="https://img.shields.io/badge/VHDL-543978?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiPjxyZWN0IHg9IjUiIHk9IjUiIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCIgcng9IjIiLz48cmVjdCB4PSI5IiB5PSI5IiB3aWR0aD0iNiIgaGVpZ2h0PSI2IiBmaWxsPSJ3aGl0ZSIgc3Ryb2tlPSJub25lIi8+PHBhdGggZD0iTTkgMXYzTTE1IDF2M005IDIwdjNNMTUgMjB2M00xIDloM00xIDE1aDNNMjAgOWgzTTIwIDE1aDMiLz48L3N2Zz4=&logoColor=white" alt="VHDL" />
-      <img src="https://img.shields.io/badge/Vivado-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="AMD Vivado" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>☕ Backend & Cloud</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>📱 Mobile</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>🧰 Tools</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <sub><b>⚡ LOW LEVEL & HARDWARE</b></sub><br>
+  <img src="https://img.shields.io/badge/C-161B22?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-161B22?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++" />
+  <img src="https://img.shields.io/badge/Assembly-161B22?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik05IDJ2MkgxMVYySDEzVjRIMTVWMkgxN1Y0SDE4QTIgMiAwIDAgMSAyMCA2VjdIMjJWOUgyMFYxMUgyMlYxM0gyMFYxNUgyMlYxN0gyMFYxOEEyIDIgMCAwIDEgMTggMjBIMTdWMjJIMTVWMjBIMTNWMjJIMTFWMjBIOVYyMkg3VjIwSDZBMiAyIDAgMCAxIDQgMThWMTdIMlYxNUg0VjEzSDJWMTFINFY5SDJWN0g0VjZBMiAyIDAgMCAxIDYgNEg3VjJIOU04IDhWMTZIMTZWOEg4WiIvPjwvc3ZnPg==&logoColor=C9A26B" alt="Assembly" />
+  <img src="https://img.shields.io/badge/VHDL-161B22?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiPjxyZWN0IHg9IjUiIHk9IjUiIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCIgcng9IjIiLz48cmVjdCB4PSI5IiB5PSI5IiB3aWR0aD0iNiIgaGVpZ2h0PSI2IiBmaWxsPSJ3aGl0ZSIgc3Ryb2tlPSJub25lIi8+PHBhdGggZD0iTTkgMXYzTTE1IDF2M005IDIwdjNNMTUgMjB2M00xIDloM00xIDE1aDNNMjAgOWgzTTIwIDE1aDMiLz48L3N2Zz4=&logoColor=9B6FD1" alt="VHDL" />
+  <img src="https://img.shields.io/badge/Vivado-161B22?style=for-the-badge&logo=amd&logoColor=ED1C24" alt="AMD Vivado" />
+</p>
+
+<p align="center">
+  <sub><b>💻 SOFTWARE</b></sub><br>
+  <img src="https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-161B22?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-161B22?style=for-the-badge&logo=springboot&logoColor=6DB33F" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Flutter-161B22?style=for-the-badge&logo=flutter&logoColor=02569B" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Firebase-161B22?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase" />
+  <img src="https://img.shields.io/badge/PostgreSQL-161B22?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+</p>
+
+<p align="center">
+  <sub><b>🧰 TOOLS</b></sub><br>
+  <img src="https://img.shields.io/badge/Linux-161B22?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
+  <img src="https://img.shields.io/badge/Docker-161B22?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/AWS-161B22?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
+</p>
 
 ---
 
