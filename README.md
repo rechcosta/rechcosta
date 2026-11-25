@@ -16,9 +16,9 @@
 
 <p align="center">
   🎓 <b>Computer Engineering</b> student at <b>UFSC</b> (Federal University of Santa Catarina)<br>
-  ⚡ Focused on <b>embedded systems</b>: firmware, real-time control and hardware-software integration<br>
+  ⚡ Focused on <b>embedded systems</b>: bare-metal firmware, real-time control and hardware–software integration<br>
   🔌 Member of <b>ProtoFPGA</b>, a hardware league where we design, build and simulate digital hardware<br>
-  🔭 Member of <b>LUNA</b>, a study group working on computer vision applied to astronomy<br>
+  🧩 Currently exploring <b>microcontrollers</b> (AVR, ARM Cortex-M), <b>FPGA design</b> in VHDL and <b>Rust</b> on bare metal<br>
   🛰️ Curious about numerical computing and aerospace simulation
 </p>
 
@@ -31,8 +31,8 @@
   <br><br>
   <img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=A8B9CC&labelColor=0D1117" alt="C" />
   <img src="https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=cplusplus&logoColor=659AD2&labelColor=0D1117" alt="C++" />
-  <img src="https://img.shields.io/badge/Assembly-0D1117?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0Q0QTM3MyI+PHBhdGggZD0iTTkgMnYySDExVjJIMTNWNEgxNVYySDE3VjRIMThBMiAyIDAgMCAxIDIwIDZWN0gyMlY5SDIwVjExSDIyVjEzSDIwVjE1SDIyVjE3SDIwVjE4QTIgMiAwIDAgMSAxOCAyMEgxN1YyMkgxNVYyMEgxM1YyMkgxMVYyMEg5VjIySDdWMjBINkEyIDIgMCAwIDEgNCAxOFYxN0gyVjE1SDRWMTNIMlYxMUg0VjlIMlY3SDRWNkEyIDIgMCAwIDEgNiA0SDdWMkg5TTggOFYxNkgxNlY4SDhaIi8+PC9zdmc+&labelColor=0D1117" alt="Assembly" />
-  <img src="https://img.shields.io/badge/VHDL-0D1117?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQjM5MkYwIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCI+PHJlY3QgeD0iNSIgeT0iNSIgd2lkdGg9IjE0IiBoZWlnaHQ9IjE0IiByeD0iMiIvPjxyZWN0IHg9IjkiIHk9IjkiIHdpZHRoPSI2IiBoZWlnaHQ9IjYiIGZpbGw9IiNCMzkyRjAiIHN0cm9rZT0ibm9uZSIvPjxwYXRoIGQ9Ik05IDF2M00xNSAxdjNNOSAyMHYzTTE1IDIwdjNNMSA5aDNNMSAxNWgzTTIwIDloM00yMCAxNWgzIi8+PC9zdmc+&labelColor=0D1117" alt="VHDL" />
+  <img src="https://img.shields.io/badge/Assembly-0D1117?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRDRBMzczIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCI+PHBhdGggZD0iTTIgNGg3bDMgNCAzLTRoN2wtNSAxNUg3eiIvPjxwYXRoIGQ9Ik01LjUgMXYzTTE4LjUgMXYzTTEyIDE5djQiLz48L3N2Zz4=&labelColor=0D1117" alt="Assembly" />
+  <img src="https://img.shields.io/badge/VHDL-0D1117?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQjM5MkYwIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTcgNWg1YTcgNyAwIDAgMSAwIDE0SDd6Ii8+PHBhdGggZD0iTTEgOWg2TTEgMTVoNk0xOSAxMmg0Ii8+PC9zdmc+&labelColor=0D1117" alt="VHDL" />
   <img src="https://img.shields.io/badge/Vivado-0D1117?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRkY0RDREIiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMSAxN2g0VjdoNXYxMGg0VjdoNXYxMGg0Ii8+PC9zdmc+&labelColor=0D1117" alt="Vivado" />
 </p>
 
@@ -56,5 +56,7 @@
 ---
 
 <div align="center">
-  <sub>Building things from the transistor up ⚙️</sub>
+  <sub><code>while (1) { read_sensors(); compute(); actuate(); }</code></sub>
+  <br>
+  <sub>Writing code that talks to hardware, from registers to real-time loops ⚙️</sub>
 </div>
