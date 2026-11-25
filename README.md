@@ -18,8 +18,7 @@
   🎓 <b>Computer Engineering</b> student at <b>UFSC</b> (Federal University of Santa Catarina)<br>
   ⚡ Focused on <b>embedded systems</b>: bare-metal firmware, real-time control and hardware–software integration<br>
   🔌 Member of <b>ProtoFPGA</b>, a hardware league where we design, build and simulate digital hardware<br>
-  🧩 Currently exploring <b>microcontrollers</b> (AVR, ARM Cortex-M), <b>FPGA design</b> in VHDL and <b>Rust</b> on bare metal<br>
-  🛰️ Curious about numerical computing and aerospace simulation
+  🛰️ Curious about <b>aerospace</b> and <b>safety-critical systems</b>
 </p>
 
 ---
@@ -31,8 +30,8 @@
   <br><br>
   <img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=A8B9CC&labelColor=0D1117" alt="C" />
   <img src="https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=cplusplus&logoColor=659AD2&labelColor=0D1117" alt="C++" />
-  <img src="https://img.shields.io/badge/Assembly-0D1117?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRDRBMzczIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCI+PHBhdGggZD0iTTIgNGg3bDMgNCAzLTRoN2wtNSAxNUg3eiIvPjxwYXRoIGQ9Ik01LjUgMXYzTTE4LjUgMXYzTTEyIDE5djQiLz48L3N2Zz4=&labelColor=0D1117" alt="Assembly" />
-  <img src="https://img.shields.io/badge/VHDL-0D1117?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQjM5MkYwIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTcgNWg1YTcgNyAwIDAgMSAwIDE0SDd6Ii8+PHBhdGggZD0iTTEgOWg2TTEgMTVoNk0xOSAxMmg0Ii8+PC9zdmc+&labelColor=0D1117" alt="VHDL" />
+  <img src="https://img.shields.io/badge/Assembly-0D1117?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0Q0QTM3MyIgZD0iTTYuMjIgMTguOTFRMy41NCAxOC45MSAyLjI3IDE3LjA5UTEgMTUuMjcgMSAxMlExIDguNzMgMi4yNyA2LjkxUTMuNTQgNS4wOSA2LjIyIDUuMDlROC45IDUuMDkgMTAuMTcgNi45MVExMS40NSA4LjczIDExLjQ1IDEyUTExLjQ1IDE1LjI3IDEwLjE3IDE3LjA5UTguOSAxOC45MSA2LjIyIDE4LjkxWk02LjIyIDE2LjY1UTcuNSAxNi42NSA4LjAxIDE1Ljc1UTguNTIgMTQuODUgOC41MiAxMy4yNFYxMC43NlE4LjUyIDkuMTUgOC4wMSA4LjI1UTcuNSA3LjM1IDYuMjIgNy4zNVE0Ljk0IDcuMzUgNC40MyA4LjI1UTMuOTMgOS4xNSAzLjkzIDEwLjc2VjEzLjI0UTMuOTMgMTQuODUgNC40MyAxNS43NVE0Ljk0IDE2LjY1IDYuMjIgMTYuNjVaTTYuMjIgMTMuMTNRNS41NSAxMy4xMyA1LjI5IDEyLjg2UTUuMDQgMTIuNTkgNS4wNCAxMi4yMVYxMS43OVE1LjA0IDExLjQxIDUuMjkgMTEuMTRRNS41NSAxMC44NyA2LjIyIDEwLjg3UTYuODkgMTAuODcgNy4xNSAxMS4xNFE3LjQxIDExLjQxIDcuNDEgMTEuNzlWMTIuMjFRNy40MSAxMi41OSA3LjE1IDEyLjg2UTYuODkgMTMuMTMgNi4yMiAxMy4xM1pNMTIuNCAxOC42OCAxNi4wOSAxMy42NiAxMi42NSA4LjgxSDE1Ljg4TDE2Ljk0IDEwLjM5TDE3Ljc0IDExLjY3SDE3Ljg5TDE4LjcxIDEwLjM5TDE5Ljc5IDguODFIMjIuNzVMMTkuMzEgMTMuNTFMMjMgMTguNjhIMTkuNzVMMTguNSAxNi44MkwxNy42NCAxNS41SDE3LjQ5TDE2LjY1IDE2LjgyTDE1LjM5IDE4LjY4WiIvPjwvc3ZnPg==&labelColor=0D1117" alt="Assembly" />
+  <img src="https://img.shields.io/badge/VHDL-0D1117?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0IzOTJGMCIgZD0iTTEgMTMuNDRWMTAuNTZMOS45OCA1Ljc1VjguNjRMMy43OCAxMS45MlYxMi4wOEw5Ljk4IDE1LjM2VjE4LjI1Wk0xMy4wNiAxMC44M1Y4LjM2SDIzVjEwLjgzWk0xMy4wNiAxNS42NFYxMy4xN0gyM1YxNS42NFoiLz48L3N2Zz4=&labelColor=0D1117" alt="VHDL" />
   <img src="https://img.shields.io/badge/Vivado-0D1117?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRkY0RDREIiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMSAxN2g0VjdoNXYxMGg0VjdoNXYxMGg0Ii8+PC9zdmc+&labelColor=0D1117" alt="Vivado" />
 </p>
 

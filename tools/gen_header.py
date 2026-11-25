@@ -36,10 +36,10 @@ BIT_US = 1e6 / BAUD          # 8.68 µs per bit
 IDLE_BITS = 2                # idle-high bits before and after the burst
 
 TYPED_LINES = (
-    "digital hardware on FPGAs",
-    "writing C, Assembly and VHDL",
-    "computer vision applied to astronomy @ LUNA",
-    "from registers to full-stack apps",
+    "bare-metal firmware in C and Assembly",
+    "real-time control on microcontrollers",
+    "digital hardware in VHDL on FPGAs",
+    "curious about aerospace & critical systems",
 )
 
 W, H = 1200, 384
