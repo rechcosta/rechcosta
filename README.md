@@ -16,9 +16,10 @@
 
 <p align="center">
   🎓 <b>Computer Engineering</b> student at <b>UFSC</b> (Federal University of Santa Catarina)<br>
-  ⚡ Focused on <b>embedded systems</b>: bare-metal firmware, real-time control and hardware–software integration<br>
+  ⚡ Focused on <b>embedded systems</b> and <b>firmware</b> in C, C++ and Assembly<br>
+  ⏱️ Building <b>real-time systems</b> on microcontrollers<br>
   🔌 Member of <b>ProtoFPGA</b>, a hardware league where we design, build and simulate digital hardware<br>
-  🛰️ Curious about <b>aerospace</b> and <b>safety-critical systems</b>
+  🛰️ Curious about <b>aerospace engineering</b> and <b>safety-critical systems</b>
 </p>
 
 ---

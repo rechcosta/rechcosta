@@ -36,10 +36,10 @@ BIT_US = 1e6 / BAUD          # 8.68 µs per bit
 IDLE_BITS = 2                # idle-high bits before and after the burst
 
 TYPED_LINES = (
-    "embedded systems & bare-metal firmware",
-    "C and C++ close to the hardware",
-    "Assembly, registers and interrupts",
-    "*(volatile uint32_t *)GPIOA_ODR |= LED;",
+    "embedded systems & firmware",
+    "C, C++ and Assembly",
+    "real-time systems on microcontrollers",
+    "curious about aerospace & critical systems",
 )
 
 W, H = 1200, 384
