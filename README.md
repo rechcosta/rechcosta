@@ -51,11 +51,3 @@
   <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=0D1117" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0D1117" alt="Git" />
 </p>
-
----
-
-<div align="center">
-  <sub><code>while (1) { read_sensors(); compute(); actuate(); }</code></sub>
-  <br>
-  <sub>Writing code that talks to hardware, from registers to real-time loops ⚙️</sub>
-</div>
