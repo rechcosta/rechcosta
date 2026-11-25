@@ -16,10 +16,9 @@
 
 <p align="center">
   🎓 <b>Computer Engineering</b> student at <b>UFSC</b> (Federal University of Santa Catarina)<br>
-  ⚡ Focused on <b>embedded systems</b> and <b>firmware</b> in C, C++ and Assembly<br>
-  ⏱️ Building <b>real-time systems</b> on microcontrollers<br>
+  ⚡ Focused on <b>embedded systems</b>: bare-metal firmware, real-time control and hardware–software integration<br>
   🔌 Member of <b>ProtoFPGA</b>, a hardware league where we design, build and simulate digital hardware<br>
-  🛰️ Curious about <b>aerospace engineering</b> and <b>safety-critical systems</b>
+  🛰️ Curious about <b>aerospace</b> and <b>safety-critical systems</b>
 </p>
 
 ---
@@ -31,7 +30,7 @@
   <br><br>
   <img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=A8B9CC&labelColor=0D1117" alt="C" />
   <img src="https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=cplusplus&logoColor=659AD2&labelColor=0D1117" alt="C++" />
-  <img src="https://img.shields.io/badge/Assembly-0D1117?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0Q0QTM3MyI+PHBhdGggZD0iTTEgOC41bDUgMy41LTUgMy41eiIvPjxyZWN0IHg9IjgiIHk9IjMiIHdpZHRoPSIxNSIgaGVpZ2h0PSIzIiByeD0iMSIgb3BhY2l0eT0iLjQ1Ii8+PHJlY3QgeD0iOCIgeT0iMTAuNSIgd2lkdGg9IjEzIiBoZWlnaHQ9IjMiIHJ4PSIxIi8+PHJlY3QgeD0iOCIgeT0iMTgiIHdpZHRoPSIxMCIgaGVpZ2h0PSIzIiByeD0iMSIgb3BhY2l0eT0iLjQ1Ii8+PC9zdmc+&labelColor=0D1117" alt="Assembly" />
+  <img src="https://img.shields.io/badge/Assembly-0D1117?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0Q0QTM3MyIgZD0iTTYuMjIgMTguOTFRMy41NCAxOC45MSAyLjI3IDE3LjA5UTEgMTUuMjcgMSAxMlExIDguNzMgMi4yNyA2LjkxUTMuNTQgNS4wOSA2LjIyIDUuMDlROC45IDUuMDkgMTAuMTcgNi45MVExMS40NSA4LjczIDExLjQ1IDEyUTExLjQ1IDE1LjI3IDEwLjE3IDE3LjA5UTguOSAxOC45MSA2LjIyIDE4LjkxWk02LjIyIDE2LjY1UTcuNSAxNi42NSA4LjAxIDE1Ljc1UTguNTIgMTQuODUgOC41MiAxMy4yNFYxMC43NlE4LjUyIDkuMTUgOC4wMSA4LjI1UTcuNSA3LjM1IDYuMjIgNy4zNVE0Ljk0IDcuMzUgNC40MyA4LjI1UTMuOTMgOS4xNSAzLjkzIDEwLjc2VjEzLjI0UTMuOTMgMTQuODUgNC40MyAxNS43NVE0Ljk0IDE2LjY1IDYuMjIgMTYuNjVaTTYuMjIgMTMuMTNRNS41NSAxMy4xMyA1LjI5IDEyLjg2UTUuMDQgMTIuNTkgNS4wNCAxMi4yMVYxMS43OVE1LjA0IDExLjQxIDUuMjkgMTEuMTRRNS41NSAxMC44NyA2LjIyIDEwLjg3UTYuODkgMTAuODcgNy4xNSAxMS4xNFE3LjQxIDExLjQxIDcuNDEgMTEuNzlWMTIuMjFRNy40MSAxMi41OSA3LjE1IDEyLjg2UTYuODkgMTMuMTMgNi4yMiAxMy4xM1pNMTIuNCAxOC42OCAxNi4wOSAxMy42NiAxMi42NSA4LjgxSDE1Ljg4TDE2Ljk0IDEwLjM5TDE3Ljc0IDExLjY3SDE3Ljg5TDE4LjcxIDEwLjM5TDE5Ljc5IDguODFIMjIuNzVMMTkuMzEgMTMuNTFMMjMgMTguNjhIMTkuNzVMMTguNSAxNi44MkwxNy42NCAxNS41SDE3LjQ5TDE2LjY1IDE2LjgyTDE1LjM5IDE4LjY4WiIvPjwvc3ZnPg==&labelColor=0D1117" alt="Assembly" />
   <img src="https://img.shields.io/badge/VHDL-0D1117?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0IzOTJGMCI+PHJlY3QgeD0iMiIgeT0iMiIgd2lkdGg9IjUiIGhlaWdodD0iNSIgcng9IjEiLz48cmVjdCB4PSI5LjUiIHk9IjIiIHdpZHRoPSI1IiBoZWlnaHQ9IjUiIHJ4PSIxIi8+PHJlY3QgeD0iMTciIHk9IjIiIHdpZHRoPSI1IiBoZWlnaHQ9IjUiIHJ4PSIxIi8+PHJlY3QgeD0iMiIgeT0iOS41IiB3aWR0aD0iNSIgaGVpZ2h0PSI1IiByeD0iMSIvPjxyZWN0IHg9IjkuNSIgeT0iOS41IiB3aWR0aD0iNSIgaGVpZ2h0PSI1IiByeD0iMSIgb3BhY2l0eT0iLjQiLz48cmVjdCB4PSIxNyIgeT0iOS41IiB3aWR0aD0iNSIgaGVpZ2h0PSI1IiByeD0iMSIvPjxyZWN0IHg9IjIiIHk9IjE3IiB3aWR0aD0iNSIgaGVpZ2h0PSI1IiByeD0iMSIvPjxyZWN0IHg9IjkuNSIgeT0iMTciIHdpZHRoPSI1IiBoZWlnaHQ9IjUiIHJ4PSIxIi8+PHJlY3QgeD0iMTciIHk9IjE3IiB3aWR0aD0iNSIgaGVpZ2h0PSI1IiByeD0iMSIvPjxwYXRoIGQ9Ik03IDQuNWgyLjVNMTQuNSAxMmgyLjVNMTIgMTQuNXYyLjVNNC41IDd2Mi41IiBzdHJva2U9IiNCMzkyRjAiIHN0cm9rZS13aWR0aD0iMS41Ii8+PC9zdmc+&labelColor=0D1117" alt="VHDL" />
   <img src="https://img.shields.io/badge/Vivado-0D1117?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRkY0RDREIiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMSAxN2g0VjdoNXYxMGg0VjdoNXYxMGg0Ii8+PC9zdmc+&labelColor=0D1117" alt="Vivado" />
 </p>
